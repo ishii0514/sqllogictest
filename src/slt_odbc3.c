@@ -213,7 +213,7 @@ static int ODBC3_dropAllTables(ODBC3_Handles *pODBC3conn)
       if (SQL_SUCCEEDED(ret)) {
         /* Loop through the columns in the row */
         for( i=1; i<=columns; i++ ){
-          SQLINTEGER indicator;
+          SQLLEN indicator;
           char zBuffer[512];
           /* retrieve column data as a string */
           ret = SQLGetData(stmt, 
@@ -320,6 +320,22 @@ static int ODBC3_dropAllTables(ODBC3_Handles *pODBC3conn)
           rc = ODBC3Statement(pODBC3conn, zSql, 0);
         }
       }
+    }else if( 0 == stricmp(zDmbsName, "Dr.Sum EA") ){
+      for( i=0; !rc && (i+4<res.nUsed); i+=5 ){
+        if(    (0 == strcmp(res.azValue[i], zDbName)
+                 || 0 == strcmp(res.azValue[i], "NULL"))
+            && (0 == strcmp(res.azValue[i+1], "(empty)")
+                 || 0 == strcmp(res.azValue[i+1], "NULL")
+                 || 0 == strcmp(res.azValue[i+1], "slt"))
+            && (strlen(res.azValue[i+2])>0)
+            && (0 == strcmp(res.azValue[i+3], "TABLE"))
+            && (0 == strcmp(res.azValue[i+4], "NULL")
+                 || 0 == strcmp(res.azValue[i+4], "(empty)"))
+        ){
+          sprintf(zSql, "DROP TABLE %s", res.azValue[i+2]);
+          rc = ODBC3Statement(pODBC3conn, zSql, 0);
+        }
+      }			
     }else{
       for( i=0; !rc && (i+4<res.nUsed); i+=5 ){
         if(    (0 == strcmp(res.azValue[i], zDbName)
@@ -568,7 +584,7 @@ static int ODBC3Query(
       if( SQL_SUCCEEDED(ret) ){
         /* Loop through the columns */
         for(i = 1; !rc && (i <= columns); i++){
-          SQLINTEGER indicator = 0;
+          SQLLEN indicator = 0;
           switch( zType[i-1] ){
             case 'T': {
               /* retrieve column data as a string */
