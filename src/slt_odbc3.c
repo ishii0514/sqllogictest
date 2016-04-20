@@ -431,12 +431,15 @@ static int ODBC3Connect(
     /* Build the connection string.   If a DSN or DATABASE
     ** is not specified, use the defaults.
     */
-    if( !zConnectStr || !strstr(zConnectStr, "DSN=") ){
-      strcat(szConnStrIn, "DSN=" SLT_DSN ";");
-    }
-    if( !zConnectStr || !strstr(zConnectStr, "DATABASE=") ){
-      strcat(szConnStrIn, "DATABASE=" SLT_DB ";");
-    }
+	if ( !zConnectStr || !strstr(zConnectStr, "DRIVER=") ){
+		if( !zConnectStr || !strstr(zConnectStr, "DSN=") ){
+	      strcat(szConnStrIn, "DSN=" SLT_DSN ";");
+	    }
+	    if( !zConnectStr || !strstr(zConnectStr, "DATABASE=") ){
+	      strcat(szConnStrIn, "DATABASE=" SLT_DB ";");
+	    }
+	}
+	
     if( zConnectStr ){
       strcat(szConnStrIn, zConnectStr);
     }
