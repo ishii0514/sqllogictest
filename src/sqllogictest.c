@@ -466,8 +466,12 @@ int main(int argc, char **argv){
       ** the we skip this rest of this record for "skipif" or for
       ** "onlyif" we skip the record if the record does not match.
       */
-      bMatch = stricmp(sScript.azToken[1], zDbEngine)==0;
-      if( sScript.azToken[0][0]=='s' ){
+      if ( stricmp(zDbEngine,"Dr.Sum EA") == 0 ){
+		bMatch = stricmp(sScript.azToken[1], "drsum")==0;
+	  } else {
+      	bMatch = stricmp(sScript.azToken[1], zDbEngine)==0;
+	  }
+	  if( sScript.azToken[0][0]=='s' ){
         if( bMatch ) bSkip = -1;
       }else{
         if( !bMatch ) bSkip = -1;
