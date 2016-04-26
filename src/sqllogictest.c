@@ -661,7 +661,7 @@ int main(int argc, char **argv){
         if( hashThreshold==0 || nResult<=hashThreshold ){
           for(i=0; i<nResult && sScript.zLine[0]; nextLine(&sScript), i++){
             if( strcmp(sScript.zLine, azResult[i])!=0 ){
-              fprintf(stdout,"%s:%d: wrong result\n", zScriptFile,
+              fprintf(stderr,"%s:%d: wrong result\n", zScriptFile,
                       sScript.nLine);
               nErr++;
               break;
