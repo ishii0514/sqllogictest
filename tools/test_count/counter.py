@@ -8,12 +8,10 @@ import fnmatch
 import csv
 import datetime
 
-#TODO:haltが宣言された場合のケース数は考慮はしていない。
-#halt=その後の行全てをスキップする。
-
 
 def main():
     #target_dir = r'C:\sqllogictest\test2\evidence\in1.test'
+    #target_dir = r'C:\sqllogictest\test2\evidence\slt_lang_aggfunc.test'
     #target_dir = r'C:\sqllogictest\test\select2.test'
     target_dir = r'C:\sqllogictest\test2'
     if len(sys.argv) > 1:
@@ -39,7 +37,7 @@ def get_file_info(target_dir, target_db, output_dir):
     res = []
     for file_name in get_file_list(target_dir, '*.test'):
         test = TestFile(file_name)
-        test.write_csv(make_output_file_name(target_dir, file_name, output_dir))
+        test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
         case_sum = test.case_summary(target_db)
         res.append((file_name, case_sum))
         #for s in test.statements:
@@ -116,9 +114,7 @@ class TestFile:
         #テスト実行結果ファイルの有無
         result_file_name = file_name + '_res'
         tested = os.path.exists(result_file_name)
-        test_results = {}
-        if tested:
-            test_results = self.get_test_result(result_file_name)
+        test_results = self.get_test_result(result_file_name)
 
         self.statements = self.get_statements(file_name, tested, test_results)
 
@@ -128,6 +124,7 @@ class TestFile:
         ファイルを読み込んでステートメント毎に分割して取得する。
         """
         statements = []
+        halt = []
         with open(file_name, 'r') as f:
             started = False
             block = []
@@ -140,7 +137,13 @@ class TestFile:
                     continue
                 if started and cls.is_blank(line):
                     #1ブロック終了
-                    statements.append(Statement(file_name, block, tested, test_results))
+                    s = Statement(file_name, block, tested, test_results, halt)
+                    statements.append(s)
+                    if s.type == 'halt':
+                        if s.skipif != '':
+                            halt.append(('s', s.skipif))
+                        if s.onlyif != '':
+                            halt.append(('o', s.onlyif))
                     block = []
                     started = False
                     continue
@@ -148,7 +151,7 @@ class TestFile:
                 block.append((i, line))
 
             if len(block) > 0:
-                statements.append(Statement(file_name, block, tested, test_results))
+                statements.append(Statement(file_name, block, tested, test_results, halt))
         return statements
 
     @classmethod
@@ -165,6 +168,8 @@ class TestFile:
         エラー情報を取得して、行数をインデックスとした連想配列で返す。
         """
         res = {}
+        if os.path.exists(file_name) is False:
+            return res
         with open(file_name, 'r') as f:
             for line in f:
                 row, msg = cls.get_err_info(line)
@@ -220,7 +225,7 @@ class TestFile:
                 'ok_case': ok_case,
                 'ng_case': ng_case}
 
-    def write_csv(self, output_file_name, encode='cp932'):
+    def write_csv(self, db_name, output_file_name, encode='cp932'):
         """
         ファイル内のステートメント情報をCSVに出力する。
         """
@@ -228,29 +233,36 @@ class TestFile:
             write_csv = csv.writer(f, lineterminator='\n', quotechar='"', quoting=csv.QUOTE_ALL)
             write_csv.writerow(Statement.get_csv_header())
             for s in self.statements:
-                write_csv.writerow(s.get_member_as_list(encode))
+                write_csv.writerow(s.get_result_as_list(db_name, encode))
 
 
 class Statement:
     """
     ステートメント情報を格納する
     """
-    def __init__(self, file_name, block, tested, test_results):
+    def __init__(self, file_name, block, tested, test_results, halt):
         if len(block) == 0:
             raise ValueError("no statement block.")
         self.file_name = file_name
+        self.halt = list(halt)
+
         self.row_num = 0
+        self.end_row_num = 0
         self.type = ''
         self.skipif = ''
         self.onlyif = ''
         self.statement = ''
         self.test_result = '-'
-        if tested:  # テストしていたらとりあえずokにする。
-            self.test_result = 'o'
         self.test_msg = ''
-        self.set_param(block, test_results)
 
-    def set_param(self, block, test_results):
+        #ステートメント情報を取得
+        self.set_param(block)
+
+        #テスト結果がある場合は結果を取得
+        if tested:
+            self.set_test_result(test_results)
+
+    def set_param(self, block):
         """
         blockから、テスト情報を各メンバーにセットする。
         :param block:ステートメントの1ブロック
@@ -258,6 +270,7 @@ class Statement:
         :return:
         """
         self.row_num = block[0][0]
+        self.end_row_num = block[len(block)-1][0]
         cur = 0
         #スキップの有無を確認
         s = block[cur][1].strip()
@@ -282,13 +295,25 @@ class Statement:
         for x in block:
             self.statement += x[1]
 
+    def set_test_result(self, test_results):
         #テスト実施結果
-        end_row_num = block[len(block)-1][0]
-        for i in range(self.row_num, end_row_num+1):
+        self.test_result = 'o'  # とりあえず全ケースOKとする。
+        #エラー情報取得
+        for i in range(self.row_num, self.end_row_num+1):
             if i in test_results:
                 self.test_result = 'x'
                 self.test_msg = test_results[i]
                 break
+
+    def get_test_result(self, db_name=''):
+        """
+        テスト結果を返す。スキップしたものを判別するため、DB名を引数に取る。
+        :param db_name:空の場合は全ケースを実施したとみなす。
+        :return:
+        """
+        if self.is_valid(db_name):
+            return self.test_result
+        return '-'
 
     def is_valid(self, db_name=''):
         """
@@ -301,26 +326,31 @@ class Statement:
             return False
 
         if db_name == '':
-            #db_nameが空なら全てのケースがvalid
+            #db_nameが空なら全てのケースをvalidとする。
             return True
 
-        return self.is_executed(db_name)
+        #haltの判定
+        if self.is_halt(db_name):
+            return False
 
-    def is_executed(self, db_name):
-        """
-        指定したDBエンジンで実行されるかの判定
-        :param db_name:
-        :return:
-        """
         if self.skipif == '' and self.onlyif == '':
-            #skip/onlyifが両方なければ関連する。
+            #skip/onlyifが両方なければ有効
             return True
         if self.onlyif != '' and self.onlyif == db_name:
-            #onlyifが対象DB名なら関連がある。
+            #onlyifが対象DB名なら有効
             return True
         if self.skipif != '' and self.skipif != db_name:
-            #skipifが対象DBじゃなければ関連がある。
+            #skipifが対象DBじゃなければ有効
             return True
+
+        return False
+
+    def is_halt(self, db_name):
+        for h in self.halt:
+            if h[0] == 's' and h[1] != db_name:
+                return True
+            elif h[0] == 'o' and h[1] == db_name:
+                return True
         return False
 
     def statement_one_line(self):
@@ -345,7 +375,7 @@ class Statement:
             'statement'
         ]
 
-    def get_member_as_list(self, encode):
+    def get_result_as_list(self, db_name, encode):
         """
         メンバー情報をリストで返す。CSV出力用。
         :param encode:
@@ -360,7 +390,7 @@ class Statement:
             self.type.encode(encode),
             self.skipif.encode(encode),
             self.onlyif.encode(encode),
-            self.test_result,
+            self.get_test_result(db_name),
             self.test_msg.encode(encode),
             self.statement_one_line().encode(encode)
         ]
