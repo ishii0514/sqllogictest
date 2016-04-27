@@ -8,6 +8,9 @@ import fnmatch
 import csv
 import datetime
 
+#TODO:haltが宣言された場合のケース数は考慮はしていない。
+#halt=その後の行全てをスキップする。
+
 
 def main():
     #target_dir = r'C:\sqllogictest\test2\evidence\in1.test'
@@ -186,7 +189,7 @@ class TestFile:
 
         if len(tokens) == 4:
             #絶対パスの場合、（:)がずれる可能性あり。
-            if len(tokens[0]) ==1 and tokens[1].find('\\') == 0:
+            if len(tokens[0]) == 1 and tokens[1].find('\\') == 0:
                 if tokens[2].isdigit():
                     return int(tokens[2]), tokens[3]
         return -1, ''
@@ -280,9 +283,12 @@ class Statement:
             self.statement += x[1]
 
         #テスト実施結果
-        if self.row_num in test_results:
-            self.test_result = 'x'
-            self.test_msg = test_results[self.row_num]
+        end_row_num = block[len(block)-1][0]
+        for i in range(self.row_num, end_row_num+1):
+            if i in test_results:
+                self.test_result = 'x'
+                self.test_msg = test_results[i]
+                break
 
     def is_valid(self, db_name=''):
         """
@@ -297,16 +303,24 @@ class Statement:
         if db_name == '':
             #db_nameが空なら全てのケースがvalid
             return True
+
+        return self.is_executed(db_name)
+
+    def is_executed(self, db_name):
+        """
+        指定したDBエンジンで実行されるかの判定
+        :param db_name:
+        :return:
+        """
         if self.skipif == '' and self.onlyif == '':
-            #skip/onlyifが両方なければvalid
+            #skip/onlyifが両方なければ関連する。
             return True
-
         if self.onlyif != '' and self.onlyif == db_name:
+            #onlyifが対象DB名なら関連がある。
             return True
-
         if self.skipif != '' and self.skipif != db_name:
+            #skipifが対象DBじゃなければ関連がある。
             return True
-
         return False
 
     def statement_one_line(self):
