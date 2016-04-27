@@ -1,0 +1,84 @@
+// Create by Enterprise Manager
+// Version 4.0.01
+// Create Date 2016/04/27
+// Create Time 15:06:08
+
+ConnectType    = "CSV"
+Encoding       = "SJIS"
+DataSourceName = "C:/DrSumEA41/Server/samples/common/stl_summary.csv"
+
+DateType    = "0"
+DateDelimit = "/"
+TimeType    = "0"
+TimeDelimit = ":"
+
+Begin CSVOption
+	CharacterEnclose = """
+	ColNameHeader    = "true"
+	Delimit          = ","
+End CSVOption
+
+Begin VirtualField
+	VirtualFieldName = "day"
+	RealFieldName    = "day"
+	Type             = "DATE"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "1"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "file_name"
+	RealFieldName    = "file_name"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "2"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "total"
+	RealFieldName    = "total"
+	Type             = "NUMERIC"
+	Precision        = "33"
+	Scale            = "0"
+	Position         = "3"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "valid_case"
+	RealFieldName    = "valid_case"
+	Type             = "NUMERIC"
+	Precision        = "33"
+	Scale            = "0"
+	Position         = "4"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "skip_case"
+	RealFieldName    = "skip_case"
+	Type             = "NUMERIC"
+	Precision        = "33"
+	Scale            = "0"
+	Position         = "5"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "ok_case"
+	RealFieldName    = "ok_case"
+	Type             = "NUMERIC"
+	Precision        = "33"
+	Scale            = "0"
+	Position         = "6"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "ng_case"
+	RealFieldName    = "ng_case"
+	Type             = "NUMERIC"
+	Precision        = "33"
+	Scale            = "0"
+	Position         = "7"
+	Expression       = ""
+End VirtualField
+

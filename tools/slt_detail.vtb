@@ -1,0 +1,102 @@
+// Create by Enterprise Manager
+// Version 4.0.01
+// Create Date 2016/04/27
+// Create Time 15:04:19
+
+ConnectType    = "CSV"
+Encoding       = "SJIS"
+DataSourceName = "C:/DrSumEA41/Server/samples/common/stl_detail.csv"
+
+DateType    = "0"
+DateDelimit = "/"
+TimeType    = "0"
+TimeDelimit = ":"
+
+Begin CSVOption
+	CharacterEnclose = """
+	ColNameHeader    = "true"
+	Delimit          = ","
+End CSVOption
+
+Begin VirtualField
+	VirtualFieldName = "day"
+	RealFieldName    = "day"
+	Type             = "DATE"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "1"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "file_name"
+	RealFieldName    = "file_name"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "2"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "row_num"
+	RealFieldName    = "row_num"
+	Type             = "NUMERIC"
+	Precision        = "33"
+	Scale            = "0"
+	Position         = "3"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "type"
+	RealFieldName    = "type"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "4"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "skipif"
+	RealFieldName    = "skipif"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "5"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "onlyif"
+	RealFieldName    = "onlyif"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "6"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "test_result"
+	RealFieldName    = "test_result"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "7"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "test_msg"
+	RealFieldName    = "test_msg"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "8"
+	Expression       = ""
+End VirtualField
+Begin VirtualField
+	VirtualFieldName = "statement"
+	RealFieldName    = "statement"
+	Type             = "VARCHAR"
+	Precision        = "0"
+	Scale            = "0"
+	Position         = "9"
+	Expression       = ""
+End VirtualField
+
