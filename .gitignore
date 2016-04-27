@@ -2,3 +2,6 @@ memo.txt
 src/*.o
 src/*exe
 src/*db
+*.idea/
+*.pyc
+*.csv
