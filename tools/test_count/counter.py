@@ -13,7 +13,7 @@ def main():
     #target_dir = r'C:\sqllogictest\test2\evidence\in1.test'
     #target_dir = r'C:\sqllogictest\test2\evidence\slt_lang_aggfunc.test'
     #target_dir = r'C:\sqllogictest\test\select2.test'
-    target_dir = r'C:\sqllogictest\test2'
+    target_dir = r'C:\sqllogictest\test'
     if len(sys.argv) > 1:
         target_dir = sys.argv[1]
     target_db = 'drsum'
@@ -37,7 +37,7 @@ def get_file_info(target_dir, target_db, output_dir):
     res = []
     for file_name in get_file_list(target_dir, '*.test'):
         test = TestFile(file_name)
-        test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
+        #test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
         case_sum = test.case_summary(target_db)
         res.append((file_name, case_sum))
         #for s in test.statements:
