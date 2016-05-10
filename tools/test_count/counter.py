@@ -11,9 +11,9 @@ import datetime
 
 def main():
     #target_dir = r'C:\sqllogictest\test2\evidence\in1.test'
-    #target_dir = r'C:\sqllogictest\test2\evidence\slt_lang_aggfunc.test'
+    target_dir = r'C:\sqllogictest\test2\evidence\in2.test'
     #target_dir = r'C:\sqllogictest\test\select2.test'
-    target_dir = r'C:\sqllogictest\test'
+    #target_dir = r'C:\sqllogictest\test2'
     if len(sys.argv) > 1:
         target_dir = sys.argv[1]
     target_db = 'drsum'
@@ -37,7 +37,7 @@ def get_file_info(target_dir, target_db, output_dir):
     res = []
     for file_name in get_file_list(target_dir, '*.test'):
         test = TestFile(file_name)
-        #test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
+        test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
         case_sum = test.case_summary(target_db)
         res.append((file_name, case_sum))
         #for s in test.statements:
@@ -249,8 +249,8 @@ class Statement:
         self.row_num = 0
         self.end_row_num = 0
         self.type = ''
-        self.skipif = ''
-        self.onlyif = ''
+        self.skipif = []
+        self.onlyif = []
         self.statement = ''
         self.test_result = '-'
         self.test_msg = ''
@@ -271,17 +271,18 @@ class Statement:
         """
         self.row_num = block[0][0]
         self.end_row_num = block[len(block)-1][0]
-        cur = 0
-        #スキップの有無を確認
-        s = block[cur][1].strip()
-        if s.find('onlyif') == 0:
-            self.onlyif = s.split(' ')[1]
-            cur += 1
-        elif s.find('skipif') == 0:
-            self.skipif = s.split(' ')[1]
-            cur += 1
 
+        #スキップ情報を取得
+        cur = 0
         s = block[cur][1].strip()
+        while s.find('onlyif') == 0 or s.find('skipif') == 0:
+            if s.find('onlyif') == 0:
+                self.onlyif.append(s.split(' ')[1])
+            elif s.find('skipif') == 0:
+                self.skipif.append(s.split(' ')[1])
+            cur += 1
+            s = block[cur][1].strip()
+
         #ステートメントのタイプを取得
         if s.find('statement') == 0:
             self.type = 'statement'
@@ -291,6 +292,8 @@ class Statement:
             self.type = 'halt'
         elif s.find('hash-threshold') == 0:
             self.type = 'hash'
+        else:
+            self.type = 'unknown'
 
         for x in block:
             self.statement += x[1]
@@ -333,13 +336,13 @@ class Statement:
         if self.is_halt(db_name):
             return False
 
-        if self.skipif == '' and self.onlyif == '':
+        if len(self.skipif) == 0 and len(self.onlyif) == 0:
             #skip/onlyifが両方なければ有効
             return True
-        if self.onlyif != '' and self.onlyif == db_name:
+        if len(self.onlyif) > 0 and db_name in self.onlyif:
             #onlyifが対象DB名なら有効
             return True
-        if self.skipif != '' and self.skipif != db_name:
+        if len(self.skipif) > 0 and db_name not in self.skipif:
             #skipifが対象DBじゃなければ有効
             return True
 
@@ -347,9 +350,9 @@ class Statement:
 
     def is_halt(self, db_name):
         for h in self.halt:
-            if h[0] == 's' and h[1] != db_name:
+            if h[0] == 'o' and db_name in h[1]:
                 return True
-            elif h[0] == 'o' and h[1] == db_name:
+            if h[0] == 's' and db_name not in h[1]:
                 return True
         return False
 
@@ -388,8 +391,8 @@ class Statement:
             self.file_name.encode(encode),
             str(self.row_num),
             self.type.encode(encode),
-            self.skipif.encode(encode),
-            self.onlyif.encode(encode),
+            ','.join(self.skipif).encode(encode),
+            ','.join(self.onlyif).encode(encode),
             self.get_test_result(db_name),
             self.test_msg.encode(encode),
             self.statement_one_line().encode(encode)
