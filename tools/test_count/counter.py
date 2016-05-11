@@ -11,9 +11,9 @@ import datetime
 
 def main():
     #target_dir = r'C:\sqllogictest\test2\evidence\in1.test'
-    target_dir = r'C:\sqllogictest\test2\evidence\in2.test'
+    #target_dir = r'C:\sqllogictest\test2\evidence\in2.test'
     #target_dir = r'C:\sqllogictest\test\select2.test'
-    #target_dir = r'C:\sqllogictest\test2'
+    target_dir = r'C:\sqllogictest\test2'
     if len(sys.argv) > 1:
         target_dir = sys.argv[1]
     target_db = 'drsum'
@@ -75,14 +75,14 @@ def write_summary_csv(output_dir, res, encode='cp932'):
 
     with open(output_file_name, 'w') as f:
         write_csv = csv.writer(f, lineterminator='\n', quotechar='"', quoting=csv.QUOTE_ALL)
-        write_csv.writerow(['day', 'file_name', 'total', 'valid_case', 'skip_case', 'ok_case', 'ng_case'])
+        write_csv.writerow(['day', 'file_name', 'total', 'skip_case', 'valid_case', 'ok_case', 'ng_case'])
         for r in res:
             write_csv.writerow(
                 [date_str,
                  r[0].encode(encode),
                  r[1]['total'],
-                 r[1]['valid_case'],
                  r[1]['skip_case'],
+                 r[1]['valid_case'],
                  r[1]['ok_case'],
                  r[1]['ng_case']
                  ]
@@ -295,7 +295,9 @@ class Statement:
         else:
             self.type = 'unknown'
 
-        for x in block:
+        #ステートメントを格納
+        cur += 1
+        for x in block[cur:]:
             self.statement += x[1]
 
     def set_test_result(self, test_results):
