@@ -140,9 +140,9 @@ class TestFile:
                     s = Statement(file_name, block, tested, test_results, halt)
                     statements.append(s)
                     if s.type == 'halt':
-                        if s.skipif != '':
+                        if len(s.skipif) > 0:
                             halt.append(('s', s.skipif))
-                        if s.onlyif != '':
+                        if len(s.onlyif) > 0:
                             halt.append(('o', s.onlyif))
                     block = []
                     started = False

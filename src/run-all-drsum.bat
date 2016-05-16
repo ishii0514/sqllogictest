@@ -3,10 +3,14 @@ set HERE=%~dp0
 
 pushd %HERE%
 
-rem set TARGET_FOLDER=..\test2
-set TARGET_FOLDER=..\test2\index
+set TARGET_FOLDER=..\test2
 
-for /R %TARGET_FOLDER% %%i in (*.test) do sqllogictest -odbc "DRIVER={Dr.Sum EA 4.2 ODBC Driver};SERVER=w2012r2-logsv;PORT=6001;DATABASE=slt;UID=Administrator;PWD=" -verify %%i 2>%%i_res
+set SLT_HOST=w2012r2-logsv
+set SLT_PORT=6001
+set SLT_USER=Administrator
+set SLT_PWD=
+
+for /R %TARGET_FOLDER% %%i in (*.test) do sqllogictest -odbc "DRIVER={Dr.Sum EA 4.2 ODBC Driver};SERVER=%SLT_HOST%;PORT=%SLT_PORT%;DATABASE=slt;UID=%SLT_USER%;PWD=%SLT_PWD%" -verify %%i 2>%%i_res
 
 popd
 endlocal
