@@ -184,7 +184,8 @@ static int ODBC3_dropAllTables(ODBC3_Handles *pODBC3conn)
 
   /* Retrieve a list of tables */
   /* TBD:  do we need to drop views, triggers, etc. here? */
-  ret = SQLTables(stmt, NULL, 0, NULL, 0, NULL, 0, (SQLCHAR *)"TABLE",
+  //include view for Dr.Sum EA
+  ret = SQLTables(stmt, NULL, 0, NULL, 0, NULL, 0, (SQLCHAR *)"TABLE,VIEW",
                   SQL_NTS);
   if( !SQL_SUCCEEDED(ret) && (ret != SQL_SUCCESS_WITH_INFO) ){
     ODBC3_perror("SQLTables", stmt, SQL_HANDLE_STMT);
@@ -322,19 +323,25 @@ static int ODBC3_dropAllTables(ODBC3_Handles *pODBC3conn)
       }
     }else if( 0 == stricmp(zDmbsName, "Dr.Sum EA") ){
       for( i=0; !rc && (i+4<res.nUsed); i+=5 ){
+		fprintf(stderr, "res.azValue[i+3]=[%s],es.azValue[i+2]=%s\n", res.azValue[i+3],res.azValue[i+2]);
         if(    (0 == strcmp(res.azValue[i], zDbName)
                  || 0 == strcmp(res.azValue[i], "NULL"))
             && (0 == strcmp(res.azValue[i+1], "(empty)")
                  || 0 == strcmp(res.azValue[i+1], "NULL")
                  || 0 == strcmp(res.azValue[i+1], zDbName))
             && (strlen(res.azValue[i+2])>0)
-            && (0 == strcmp(res.azValue[i+3], "TABLE"))
             && (0 == strcmp(res.azValue[i+4], "NULL")
                  || 0 == strcmp(res.azValue[i+4], "(empty)"))
         ){
-          sprintf(zSql, "DROP TABLE %s", res.azValue[i+2]);
-          rc = ODBC3Statement(pODBC3conn, zSql, 0);
+		  if (0 == strcmp(res.azValue[i+3], "TABLE")) {
+            sprintf(zSql, "DROP TABLE %s", res.azValue[i+2]);
+            rc = ODBC3Statement(pODBC3conn, zSql, 0);
+		  } else if (0 == strcmp(res.azValue[i+3], "VIEW")) {
+			sprintf(zSql, "DROP VIEW %s", res.azValue[i+2]);
+            rc = ODBC3Statement(pODBC3conn, zSql, 0);
+		  }
         }
+		
       }			
     }else{
       for( i=0; !rc && (i+4<res.nUsed); i+=5 ){

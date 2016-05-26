@@ -40,8 +40,6 @@ def get_file_info(target_dir, target_db, output_dir):
         test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
         case_sum = test.case_summary(target_db)
         res.append((file_name, case_sum))
-        #for s in test.statements:
-        #    print s.file_name, s.row_num, s.type + ',' + s.skipif + ',' + s.onlyif + ',' + str(s.is_valid(target_db)) + ',' + s.test_result + ','+ s.test_msg
         count += 1
         total += case_sum['valid_case']
         print count, file_name, case_sum
