@@ -3,7 +3,7 @@ set HERE=%~dp0
 
 pushd %HERE%
 
-set TARGET_FOLDER=..\test2
+set TARGET_FOLDER=..\test_ea
 
 set SLT_HOST=w2012r2-logsv
 set SLT_PORT=6001

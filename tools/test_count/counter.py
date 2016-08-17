@@ -10,10 +10,9 @@ import datetime
 
 
 def main():
-    #target_dir = r'C:\sqllogictest\test2\evidence\in1.test'
-    #target_dir = r'C:\sqllogictest\test2\evidence\in2.test'
-    #target_dir = r'C:\sqllogictest\test\select2.test'
     target_dir = r'C:\sqllogictest\test2'
+    #target_dir = r'C:\sqllogictest\test2\index\random\10\slt_good_11.test'
+    #target_dir = r'C:\sqllogictest\test\select2.test'
     if len(sys.argv) > 1:
         target_dir = sys.argv[1]
     target_db = 'drsum'
@@ -302,11 +301,16 @@ class Statement:
         #テスト実施結果
         self.test_result = 'o'  # とりあえず全ケースOKとする。
         #エラー情報取得
+        err_msgs = []
         for i in range(self.row_num, self.end_row_num+1):
-            if i in test_results:
-                self.test_result = 'x'
-                self.test_msg = test_results[i]
-                break
+            if i not in test_results:
+                continue
+            self.test_result = 'x'
+            #複数出現する可能性がある
+            #self.test_msg = test_results[i]
+            #break
+            err_msgs.append(test_results[i])
+        self.test_msg = ','.join(err_msgs)
 
     def get_test_result(self, db_name=''):
         """
