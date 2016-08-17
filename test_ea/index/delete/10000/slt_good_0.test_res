@@ -1,0 +1,40 @@
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:30027: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:30030: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:30039: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:30042: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:30051: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61302: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61305: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61317: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61320: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61323: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61335: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61338: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\delete\10000\slt_good_0.test:61341: statement error
+13 errors out of 20347 tests in C:\sqllogictest\test2\index\delete\10000\slt_good_0.test - 0 skipped.

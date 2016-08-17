@@ -1,0 +1,13 @@
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\orderby_nosort\1000\slt_good_0.test:3030: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\orderby_nosort\1000\slt_good_0.test:3042: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\orderby_nosort\1000\slt_good_0.test:3051: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\orderby_nosort\1000\slt_good_0.test:3057: statement error
+4 errors out of 11040 tests in C:\sqllogictest\test2\index\orderby_nosort\1000\slt_good_0.test - 0 skipped.

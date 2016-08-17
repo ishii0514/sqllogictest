@@ -1,0 +1,28 @@
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:327: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:330: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:333: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:342: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:348: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:351: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:360: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:363: statement error
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+C:\sqllogictest\test2\index\commute\100\slt_good_7.test:366: statement error
+9 errors out of 10123 tests in C:\sqllogictest\test2\index\commute\100\slt_good_7.test - 0 skipped.
