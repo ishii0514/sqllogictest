@@ -1,0 +1,7 @@
+srcフォルダ配下で実行する。
+各実行時間目安は以下
+run-drsum_lovsv.bat		105h
+run-drsum_reg1-1.bat	15h
+run-drsum_reg2-1.bat	10h
+run-drsum_reg2-2.bat	10h
+run-drsum_reg2-3.bat	11h

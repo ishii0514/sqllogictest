@@ -1,1800 +1,1273 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:46: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:46: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:51: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:51: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:67: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:67: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:82: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:95: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:95: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:115: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:100: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:138: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:115: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:159: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:131: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:164: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:138: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:190: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:145: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:209: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:159: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:164: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:171: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:190: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:209: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:220: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:220: query failed
 SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:227: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:227: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:247: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:247: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:253: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:273: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:257: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:315: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:273: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:319: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:296: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:338: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:315: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:350: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:319: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:361: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:326: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:400: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:338: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:444: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:350: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:459: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:361: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:471: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:365: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:483: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:379: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:500: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:391: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:507: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:400: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:544: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:414: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:579: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:428: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:602: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:444: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:607: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:459: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:634: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:649: labeled result [label-63] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:652: wrong result
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:471: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:692: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:706: labeled result [label-68] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:709: wrong result
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:483: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:714: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:495: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:733: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:500: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:749: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:507: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:760: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:526: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:544: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:567: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:579: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:602: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:607: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:618: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:634: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:649: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:656: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:670: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:692: query failed
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:706: labeled result [label-68] does not agree with previous values
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:709: wrong result
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:714: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:733: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:749: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:760: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:765: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:780: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:792: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:805: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:835: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:849: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:861: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:873: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:885: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:892: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:899: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:905: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:919: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:931: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:936: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:952: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:969: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:974: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:984: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:998: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1010: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1015: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1042: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1047: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1073: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1085: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1098: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1111: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1123: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1144: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1161: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1178: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1190: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1195: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1202: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1216: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1261: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1275: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1280: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1293: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1297: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1304: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1315: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1326: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1338: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1343: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1357: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1362: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1369: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1384: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1398: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1405: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1410: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1418: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1429: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1458: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1469: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1480: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1494: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1501: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1506: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1518: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1546: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1568: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1580: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1592: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1609: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1613: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1620: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1624: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1638: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1643: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1662: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1672: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1677: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1691: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1696: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1703: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1719: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1733: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1738: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1745: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1771: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1778: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1799: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1816: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1823: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1837: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1842: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1849: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1859: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1870: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1877: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1882: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1892: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1906: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1920: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1927: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1942: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1947: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1954: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1966: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1971: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1976: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1981: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:1995: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2001: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2006: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2011: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2042: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2058: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2065: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2079: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2094: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2110: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2124: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2134: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2141: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2155: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2169: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2182: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2193: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2205: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2217: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2231: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2238: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2257: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2270: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2290: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2306: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2311: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2325: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2329: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2340: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2345: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2352: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2363: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2370: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2387: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2403: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2450: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2468: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2473: query failed
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2492: labeled result [label-250] does not agree with previous values
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2496: wrong result
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2509: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2521: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2533: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2544: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2549: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2562: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2576: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2583: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2594: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2606: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2611: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2628: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2635: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2646: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2667: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2686: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2690: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2701: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2706: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2726: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2749: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2759: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2767: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2797: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2816: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2837: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2855: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2873: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2888: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2909: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2916: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2923: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2937: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2958: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2972: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2978: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2985: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:2996: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3010: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3024: query failed
-SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3029: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3049: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3054: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3068: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3073: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3084: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3088: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3095: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3130: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3144: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3156: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3170: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3177: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3181: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3196: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3224: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3229: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3240: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3251: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3261: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3265: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3277: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3288: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3293: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3300: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3314: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3335: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3344: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3348: query failed
-SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3352: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3365: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3383: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3393: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3407: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3412: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3416: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3423: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3438: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3453: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3457: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3468: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3472: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3486: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3498: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3503: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3507: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3524: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3529: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3534: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3541: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3545: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3564: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3589: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3606: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3613: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3635: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3652: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3666: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3671: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3685: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3703: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3722: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3746: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3764: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3769: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3776: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3781: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3795: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3799: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3815: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3822: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3827: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3831: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3839: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3867: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3872: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3899: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3912: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3919: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3923: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3930: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3937: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3951: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3965: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:3992: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4005: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4011: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4018: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4028: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4039: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4051: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4056: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4074: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4109: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4137: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4144: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4148: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4161: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4177: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4198: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4209: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4214: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4221: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4235: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4240: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4251: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4256: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4268: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4273: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4280: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4308: query failed
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4320: labeled result [label-458] does not agree with previous values
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4323: wrong result
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4325: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4337: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4379: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4398: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4408: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4422: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4435: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4441: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4448: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4455: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4472: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4477: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4494: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4504: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4523: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4528: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4535: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4542: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4555: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4585: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4598: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4615: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4630: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4640: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4650: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4662: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4675: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4687: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4696: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4700: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4713: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4726: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4740: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4747: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4752: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4759: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4766: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4773: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4793: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4798: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4812: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4826: query failed
-SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4837: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4853: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4858: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4868: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4885: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4902: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4923: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4930: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4944: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4962: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4969: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4980: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:4997: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5009: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5021: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5035: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5042: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5049: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5065: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5072: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5086: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5100: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5117: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5131: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5143: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5149: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5160: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5166: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5180: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5185: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5203: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5218: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5223: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5238: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5244: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5251: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5256: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5291: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5296: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5323: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5328: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5340: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5359: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5373: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5387: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5392: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5399: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5403: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5408: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5421: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5434: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5441: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5462: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5469: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5485: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5493: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5500: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5504: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5518: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5523: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5527: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5538: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5550: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5562: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5581: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5586: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5593: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5615: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5629: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5644: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5660: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5664: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5692: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5702: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5709: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5713: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5718: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5728: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5732: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5751: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5758: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5774: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5781: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5798: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5812: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5834: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5853: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5882: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5895: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5899: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5903: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5913: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5927: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5949: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5966: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5978: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5987: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:5994: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6008: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6022: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6029: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6048: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6055: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6069: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6087: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6093: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6103: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6107: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6124: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6130: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6145: query failed
-SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
-SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6151: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:765: query failed
 SQLExecDirect:HY000:1:-2130693625:JOIN式に誤りがあります。
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6165: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:805: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6185: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:835: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6190: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:849: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6200: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:861: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6211: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:885: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6225: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:892: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6230: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:899: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6268: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:905: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6279: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:931: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6289: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:936: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6303: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:952: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6308: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:974: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:998: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1010: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1015: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1042: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1098: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1123: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1144: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1161: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1178: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1190: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1202: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1216: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1261: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1275: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1280: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1293: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1326: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1338: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1357: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1369: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1384: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1398: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1410: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1418: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1429: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1458: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1469: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1480: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1494: labeled result [label-144] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1498: wrong result
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1506: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1518: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1580: labeled result [label-152] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1583: wrong result
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1592: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1609: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1620: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1624: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1638: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1662: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1672: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1677: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1691: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1696: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1703: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1719: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1733: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1745: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1771: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1778: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1799: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1816: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1823: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1837: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1842: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1849: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1870: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1906: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1920: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1942: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1947: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1966: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1971: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1976: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:1981: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2001: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2006: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2011: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2058: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2065: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2079: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2094: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2124: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2134: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2141: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2155: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2169: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2182: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2193: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2205: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2231: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2238: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2257: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2270: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2306: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2325: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2329: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2340: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2363: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2370: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2387: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2403: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2450: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2468: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2492: labeled result [label-250] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2496: wrong result
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2509: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2521: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2533: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2544: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2549: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2562: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2576: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2583: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2594: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2606: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2611: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2628: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2635: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2686: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2690: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2749: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2759: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2797: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2816: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2837: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2888: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2909: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2916: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2958: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:2978: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3010: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3024: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3029: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3049: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3068: labeled result [label-316] does not agree with previous values
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3073: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3084: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3088: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3095: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3130: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3144: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3156: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3177: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3181: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3196: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3224: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3229: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3251: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3261: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3288: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3293: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3314: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3344: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3352: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3365: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3383: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3393: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3407: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3412: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3416: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3438: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3457: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3468: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3503: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3507: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3524: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3529: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3534: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3541: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3545: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3564: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3606: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3635: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3671: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3685: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3703: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3722: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3746: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3764: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3781: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3795: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3815: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3822: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3831: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3867: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3872: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3912: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3919: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3930: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3937: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3951: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3965: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:3992: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4005: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4011: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4028: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4051: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4056: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4074: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4137: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4144: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4148: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4161: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4177: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4198: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4209: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4214: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4221: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4240: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4251: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4256: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4268: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4273: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4280: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4308: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4320: labeled result [label-458] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4323: wrong result
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4379: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4398: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4422: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4435: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4441: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4448: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4455: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4494: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4504: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4523: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4528: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4542: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4555: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4585: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4598: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4640: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4650: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4662: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4675: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4687: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4696: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4713: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4726: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4740: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4747: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4752: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4759: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4766: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4773: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4793: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4798: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4812: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4826: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4837: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4853: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4858: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4885: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4923: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4944: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4969: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:4997: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5009: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5035: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5042: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5049: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5065: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5072: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5086: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5100: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5117: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5131: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5160: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5166: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5180: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5185: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5203: labeled result [label-550] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5208: wrong result
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5218: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5223: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5238: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5251: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5291: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5328: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5359: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5373: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5399: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5403: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5408: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5421: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5434: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5441: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6320: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5469: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6342: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5485: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6347: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5493: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6362: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5500: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6375: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5504: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6380: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5518: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6393: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5523: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6441: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5527: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6455: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5538: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6474: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5550: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6497: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5562: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5581: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5593: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5629: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5644: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5660: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5692: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5709: query failed
+SQLExecDirect:HY000:1:-2130693625:JOIN式に誤りがあります。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5713: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5728: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6504: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5732: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6508: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5751: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6556: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5774: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6584: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5781: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6598: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5798: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6605: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5812: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6616: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5834: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6636: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5882: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6650: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5895: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6655: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5899: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6681: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5913: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6688: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5949: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6702: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5966: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6707: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5978: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6732: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:5994: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6760: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6008: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6774: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6022: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6055: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6069: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6087: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6093: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6107: query failed
+SQLExecDirect:HY000:1:-2130693625:JOIN式に誤りがあります。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6165: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6185: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6779: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6225: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6783: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6230: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6797: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6268: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6829: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6279: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6843: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6289: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6303: labeled result [label-668] does not agree with previous values
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6887: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6320: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6901: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6362: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6906: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6375: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6911: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6393: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6925: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6441: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6939: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6455: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6947: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6474: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6955: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6655: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6981: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6681: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:6999: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6702: query failed
+SQLExecDirect:HY000:1:-1862208256:DB Managerでアドレス違反が発生しました。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6707: query failed
+SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6774: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7009: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6783: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7013: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6797: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7017: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6829: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7031: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6843: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7044: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6887: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6901: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7050: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6911: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7061: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6925: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7066: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6939: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7078: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6947: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7083: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6955: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7094: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6981: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7099: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:6999: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7109: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7009: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7116: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7013: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7123: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7017: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7137: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7031: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
+SQLExecDirect: unknown ODBC/SQL error
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7061: query failed
+SQLExecDirect:HY000:1:-2130693632:直積はサポートしません。
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7149: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7066: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7154: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7078: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7168: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7083: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7182: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7094: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7194: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7099: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7199: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7109: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7255: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7116: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7259: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7137: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7269: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7168: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7273: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7194: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7287: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7199: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7292: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7255: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7299: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7273: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7305: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7287: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7316: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7292: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7332: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7305: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7349: query failed
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7367: labeled result [label-783] does not agree with previous values
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7371: wrong result
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7316: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7385: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7332: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7401: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7349: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7367: labeled result [label-783] does not agree with previous values
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7371: wrong result
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7406: query failed
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7401: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\random\aggregates\slt_good_129.test:7420: query failed
-605 errors out of 802 tests in C:\sqllogictest\test2\random\aggregates\slt_good_129.test - 344 skipped.
+D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test:7406: query failed
+435 errors out of 802 tests in D:\sqllogictest\test_ea2\random\aggregates\slt_good_129.test - 344 skipped.

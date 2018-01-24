@@ -1,25 +1,30 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab4
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:327: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:327: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:330: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:330: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:333: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:333: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:336: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:336: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:345: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:345: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:348: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:348: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:360: statement error
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:360: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\100\slt_good_8.test:363: statement error
-8 errors out of 10122 tests in C:\sqllogictest\test2\index\commute\100\slt_good_8.test - 0 skipped.
+D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test:363: statement error
+8 errors out of 10122 tests in D:\sqllogictest\test_ea2\index\commute\100\slt_good_8.test - 0 skipped.

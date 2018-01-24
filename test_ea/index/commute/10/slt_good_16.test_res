@@ -1,28 +1,33 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab4
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:57: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:57: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:60: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:60: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:63: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:63: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:66: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:66: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:75: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:75: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:78: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:78: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:81: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:81: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:90: statement error
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:90: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\commute\10\slt_good_16.test:93: statement error
-9 errors out of 10032 tests in C:\sqllogictest\test2\index\commute\10\slt_good_16.test - 0 skipped.
+D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test:93: statement error
+9 errors out of 10032 tests in D:\sqllogictest\test_ea2\index\commute\10\slt_good_16.test - 0 skipped.

@@ -1,1 +1,6 @@
-0 errors out of 0 tests in C:\sqllogictest\test2\index\view\10\slt_good_0.test - 0 skipped.
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab4
+0 errors out of 0 tests in D:\sqllogictest\test_ea2\index\view\10\slt_good_0.test - 0 skipped.

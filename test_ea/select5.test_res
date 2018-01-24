@@ -1,1 +1,10 @@
-0 errors out of 1436 tests in C:\sqllogictest\test2\select5.test - 64 skipped.
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t4
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t5
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t6
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t7
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t8
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t9
+0 errors out of 1436 tests in ..\test_ea2\select5.test - 64 skipped.

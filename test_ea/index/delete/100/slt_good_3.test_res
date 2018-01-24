@@ -1,1300 +1,1305 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab4
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:327: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:327: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:330: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:330: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:333: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:333: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:336: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:336: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:345: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:345: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:348: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:348: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:351: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:351: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:354: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:354: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:357: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:357: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:366: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:366: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:372: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:372: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1388: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1388: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1391: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1391: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1394: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1394: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1406: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1406: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1409: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1409: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1421: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1421: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1424: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1424: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1427: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1427: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:1430: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:1430: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2128: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2128: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2131: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2131: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2134: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2134: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2137: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2137: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2152: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2152: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2155: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2155: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2167: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2167: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2170: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2170: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2173: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2173: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2931: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2931: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2934: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2934: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2937: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2937: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2952: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2952: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2955: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2955: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2967: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2967: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2970: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2970: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:2973: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:2973: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:3379: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:3379: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:3391: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:3391: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:3394: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:3394: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:3397: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:3397: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:3412: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:3412: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:3415: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:3415: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4133: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4133: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4136: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4136: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4148: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4148: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4151: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4151: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4154: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4154: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4166: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4166: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4169: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4169: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4636: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4636: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4648: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4648: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4651: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4651: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4654: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4654: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4657: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4657: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4669: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4669: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:4672: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:4672: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5320: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5320: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5323: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5323: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5335: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5335: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5338: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5338: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5350: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5350: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5874: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5874: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5880: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5880: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5892: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5892: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5895: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5895: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5910: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5910: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5913: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5913: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:5916: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:5916: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6934: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6934: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6937: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6937: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6949: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6949: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6952: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6952: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6955: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6955: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6958: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6958: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6970: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6970: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6973: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6973: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:6976: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:6976: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7589: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7589: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7592: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7592: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7595: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7595: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7598: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7598: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7610: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7610: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7613: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7613: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7616: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7616: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7628: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7628: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7634: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7634: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:7637: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:7637: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8035: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8035: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8050: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8050: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8053: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8053: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8056: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8056: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8059: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8059: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8071: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8071: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8074: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8074: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8077: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8077: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8080: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8080: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8778: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8778: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8781: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8781: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8784: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8784: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8796: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8796: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8799: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8799: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8811: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8811: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8814: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8814: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:8817: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:8817: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9460: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9460: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9463: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9463: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9466: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9466: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9469: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9469: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9472: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9472: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9484: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9484: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9487: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9487: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9499: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9499: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9502: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9502: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9505: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9505: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:9508: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:9508: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10026: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10026: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10029: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10029: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10035: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10035: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10047: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10047: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10050: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10050: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10062: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10062: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:10068: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:10068: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11011: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11011: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11014: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11014: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11020: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11020: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11035: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11035: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11047: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11047: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11050: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11050: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11053: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11053: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11511: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11511: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11514: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11514: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11517: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11517: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11529: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11529: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11532: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11532: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11535: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11535: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11547: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11547: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11550: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11550: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11553: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11553: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:11556: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:11556: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12434: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12434: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12437: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12437: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12440: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12440: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12452: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12452: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12455: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12455: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12458: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12458: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12470: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12470: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12473: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12473: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12879: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12879: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12882: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12882: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12885: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12885: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12900: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12900: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12903: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12903: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12906: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12906: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12918: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12918: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:12924: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:12924: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13690: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13690: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13693: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13693: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13705: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13705: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13711: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13711: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13723: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13723: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13726: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13726: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:13729: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:13729: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14187: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14187: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14190: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14190: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14193: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14193: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14196: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14196: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14208: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14208: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14220: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14220: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14223: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14223: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14226: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14226: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14229: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14229: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14897: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14897: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14900: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14900: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14903: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14903: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14906: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14906: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14918: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14918: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14924: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14924: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14936: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14936: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14939: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14939: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14942: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14942: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:14945: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:14945: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15823: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15823: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15826: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15826: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15838: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15838: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15841: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15841: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15844: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15844: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15856: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15856: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:15859: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:15859: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16497: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16497: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16503: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16503: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16506: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16506: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16518: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16518: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16521: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16521: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16527: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16527: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16539: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16539: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16542: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16542: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:16545: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:16545: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17008: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17008: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17011: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17011: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17014: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17014: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17026: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17026: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17029: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17029: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17044: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17044: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17047: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17047: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17050: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17050: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17533: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17533: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17536: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17536: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17551: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17551: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17554: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17554: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17566: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17566: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:17569: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:17569: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18150: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18150: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18153: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18153: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18156: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18156: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18168: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18168: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18171: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18171: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18174: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18174: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18186: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18186: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18189: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18189: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18192: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18192: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18837: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18837: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18840: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18840: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18852: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18852: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18855: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18855: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:18870: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:18870: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19868: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19868: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19871: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19871: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19883: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19883: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19886: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19886: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19889: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19889: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19901: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19901: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19904: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19904: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:19907: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:19907: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20620: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20620: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20623: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20623: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20626: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20626: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20638: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20638: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20641: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20641: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20644: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20644: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:20656: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:20656: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21302: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21302: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21305: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21305: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21317: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21317: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21320: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21320: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21323: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21323: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21335: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21335: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21338: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21338: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21341: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21341: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21344: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21344: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21347: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21347: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21885: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21885: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21888: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21888: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21891: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21891: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21894: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21894: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21906: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21906: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21909: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21909: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21912: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21912: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21924: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21924: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21927: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21927: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:21930: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:21930: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22328: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22328: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22343: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22343: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22346: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22346: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22361: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22361: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22364: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22364: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22367: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22367: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:22370: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:22370: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23068: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23068: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23071: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23071: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23074: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23074: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23086: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23086: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23089: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23089: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23092: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23092: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23095: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23095: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23107: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23107: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23110: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23110: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23113: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23113: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23116: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23116: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23459: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23459: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23462: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23462: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23465: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23465: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23477: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23477: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23480: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23480: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23483: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23483: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23486: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23486: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23498: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23498: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23501: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23501: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23504: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23504: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23962: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23962: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23965: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23965: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23980: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23980: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23983: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23983: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23986: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23986: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:23989: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:23989: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:24001: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:24001: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:24004: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:24004: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:24007: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:24007: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25155: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25155: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25158: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25158: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25161: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25161: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25173: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25173: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25191: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25191: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25194: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25194: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25197: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25197: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25200: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25200: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25543: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25543: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25546: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25546: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25549: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25549: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25561: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25561: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25564: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25564: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25567: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25567: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25570: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25570: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25582: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25582: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:25585: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:25585: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26103: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26103: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26106: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26106: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26109: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26109: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26112: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26112: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26124: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26124: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26127: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26127: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26142: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26142: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26145: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26145: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26148: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26148: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26151: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26151: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26497: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26497: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26500: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26500: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26512: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26512: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26518: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26518: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26530: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26530: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26536: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26536: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:26539: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:26539: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27237: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27237: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27240: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27240: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27252: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27252: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27258: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27258: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27270: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27270: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27273: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27273: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27276: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27276: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27279: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27279: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27737: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27737: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27740: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27740: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27743: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27743: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27755: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27755: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27758: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27758: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27761: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27761: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27764: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27764: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27776: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27776: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:27779: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:27779: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:28625: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:28625: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:28640: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:28640: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:28643: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:28643: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:28646: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:28646: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:28661: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:28661: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:28664: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:28664: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29122: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29122: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29125: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29125: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29128: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29128: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29140: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29140: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29155: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29155: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29158: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29158: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29161: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29161: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:29164: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:29164: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:30002: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:30002: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:30005: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:30005: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:30023: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:30023: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:30026: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:30026: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:30038: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:30038: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:30044: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:30044: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31412: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31412: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31415: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31415: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31430: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31430: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31442: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31442: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31445: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31445: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31791: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31791: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31794: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31794: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31809: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31809: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31821: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31821: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:31827: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:31827: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32345: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32345: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32348: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32348: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32351: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32351: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32363: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32363: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32366: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32366: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32369: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32369: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32372: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32372: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32375: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32375: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32387: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32387: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:32390: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:32390: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33088: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33088: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33091: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33091: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33106: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33106: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33109: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33109: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33121: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33121: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33124: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33124: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33945: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33945: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33951: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33951: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33966: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33966: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33969: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33969: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33981: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33981: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33984: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33984: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:33987: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:33987: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:34643: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:34643: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:34646: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:34646: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:34658: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:34658: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:34670: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:34670: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:34673: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:34673: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:34676: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:34676: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35444: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35444: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35447: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35447: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35450: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35450: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35462: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35462: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35465: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35465: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35477: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35477: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:35480: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:35480: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36304: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36304: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36307: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36307: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36310: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36310: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36313: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36313: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36325: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36325: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36328: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36328: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36334: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36334: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36346: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36346: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36349: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36349: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:36352: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:36352: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37200: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37200: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37203: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37203: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37206: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37206: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37218: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37218: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37221: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37221: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37236: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37236: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37239: statement error
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37239: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\delete\100\slt_good_3.test:37242: statement error
-433 errors out of 10942 tests in C:\sqllogictest\test2\index\delete\100\slt_good_3.test - 0 skipped.
+D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test:37242: statement error
+433 errors out of 10942 tests in D:\sqllogictest\test_ea2\index\delete\100\slt_good_3.test - 0 skipped.

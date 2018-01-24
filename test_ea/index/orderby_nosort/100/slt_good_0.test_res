@@ -1,28 +1,33 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab4
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:327: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:327: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:330: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:330: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:333: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:333: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:342: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:342: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:345: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:345: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:348: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:348: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:351: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:351: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:360: statement error
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:360: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test:366: statement error
-9 errors out of 10149 tests in C:\sqllogictest\test2\index\orderby_nosort\100\slt_good_0.test - 0 skipped.
+D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test:366: statement error
+9 errors out of 10149 tests in D:\sqllogictest\test_ea2\index\orderby_nosort\100\slt_good_0.test - 0 skipped.

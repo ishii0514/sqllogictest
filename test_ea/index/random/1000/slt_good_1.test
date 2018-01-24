@@ -3104,27 +3104,27 @@ SELECT DISTINCT col3 * col4 + col3 AS col1 FROM tab4 WHERE ( NULL ) <= col3
 ----
 
 query I rowsort label-10
-SELECT - 33 FROM tab0 WHERE NULL IS NULL
+SELECT -33 FROM tab0 WHERE NULL IS NULL
 ----
 1000 values hashing to 2bba20072f0c95d269da6368b704a0d6
 
 query I rowsort label-10
-SELECT - 33 FROM tab1 WHERE NULL IS NULL
+SELECT -33 FROM tab1 WHERE NULL IS NULL
 ----
 1000 values hashing to 2bba20072f0c95d269da6368b704a0d6
 
 query I rowsort label-10
-SELECT - 33 FROM tab2 WHERE NULL IS NULL
+SELECT -33 FROM tab2 WHERE NULL IS NULL
 ----
 1000 values hashing to 2bba20072f0c95d269da6368b704a0d6
 
 query I rowsort label-10
-SELECT - 33 FROM tab3 WHERE NULL IS NULL
+SELECT -33 FROM tab3 WHERE NULL IS NULL
 ----
 1000 values hashing to 2bba20072f0c95d269da6368b704a0d6
 
 query I rowsort label-10
-SELECT - 33 FROM tab4 WHERE NULL IS NULL
+SELECT -33 FROM tab4 WHERE NULL IS NULL
 ----
 1000 values hashing to 2bba20072f0c95d269da6368b704a0d6
 
@@ -3154,48 +3154,48 @@ SELECT + col3 col1 FROM tab4 WHERE col4 IS NULL
 ----
 
 query I rowsort label-20
-SELECT DISTINCT - 60 AS col2 FROM tab0 WHERE NOT col4 NOT BETWEEN ( col4 ) AND + 31 / col3 + col3
+SELECT DISTINCT -60 AS col2 FROM tab0 WHERE NOT col4 NOT BETWEEN ( col4 ) AND +31 / col3 + col3
 ----
 -60
 
 query I rowsort label-20
-SELECT DISTINCT - 60 AS col2 FROM tab1 WHERE NOT col4 NOT BETWEEN ( col4 ) AND + 31 / col3 + col3
+SELECT DISTINCT -60 AS col2 FROM tab1 WHERE NOT col4 NOT BETWEEN ( col4 ) AND +31 / col3 + col3
 ----
 -60
 
 query I rowsort label-20
-SELECT DISTINCT - 60 AS col2 FROM tab2 WHERE NOT col4 NOT BETWEEN ( col4 ) AND + 31 / col3 + col3
+SELECT DISTINCT -60 AS col2 FROM tab2 WHERE NOT col4 NOT BETWEEN ( col4 ) AND +31 / col3 + col3
 ----
 -60
 
 query I rowsort label-20
-SELECT DISTINCT - 60 AS col2 FROM tab3 WHERE NOT col4 NOT BETWEEN ( col4 ) AND + 31 / col3 + col3
+SELECT DISTINCT -60 AS col2 FROM tab3 WHERE NOT col4 NOT BETWEEN ( col4 ) AND +31 / col3 + col3
 ----
 -60
 
 query I rowsort label-20
-SELECT DISTINCT - 60 AS col2 FROM tab4 WHERE NOT col4 NOT BETWEEN ( col4 ) AND + 31 / col3 + col3
+SELECT DISTINCT -60 AS col2 FROM tab4 WHERE NOT col4 NOT BETWEEN ( col4 ) AND +31 / col3 + col3
 ----
 -60
 
 query I rowsort label-25
-SELECT ALL ( - 48 ) FROM tab0 cor0 WHERE NOT NULL IS NULL
+SELECT ALL ( -48 ) FROM tab0 cor0 WHERE NOT NULL IS NULL
 ----
 
 query I rowsort label-25
-SELECT ALL ( - 48 ) FROM tab1 cor0 WHERE NOT NULL IS NULL
+SELECT ALL ( -48 ) FROM tab1 cor0 WHERE NOT NULL IS NULL
 ----
 
 query I rowsort label-25
-SELECT ALL ( - 48 ) FROM tab2 cor0 WHERE NOT NULL IS NULL
+SELECT ALL ( -48 ) FROM tab2 cor0 WHERE NOT NULL IS NULL
 ----
 
 query I rowsort label-25
-SELECT ALL ( - 48 ) FROM tab3 cor0 WHERE NOT NULL IS NULL
+SELECT ALL ( -48 ) FROM tab3 cor0 WHERE NOT NULL IS NULL
 ----
 
 query I rowsort label-25
-SELECT ALL ( - 48 ) FROM tab4 cor0 WHERE NOT NULL IS NULL
+SELECT ALL ( -48 ) FROM tab4 cor0 WHERE NOT NULL IS NULL
 ----
 
 onlyif mysql # CAST syntax: DECIMAL type: 

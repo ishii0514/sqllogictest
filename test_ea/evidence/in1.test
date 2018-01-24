@@ -31,45 +31,45 @@ halt
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT 1 IN ()
+SELECT 1 IN () FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 1 IN (2)
+SELECT 1 IN (2) FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 1 IN (2,3,4,5,6,7,8,9)
-----
-0
-
-onlyif sqlite # empty RHS
-query I nosort
-SELECT 1 NOT IN ()
-----
-1
-
-query I nosort
-SELECT 1 NOT IN (2)
-----
-1
-
-query I nosort
-SELECT 1 NOT IN (2,3,4,5,6,7,8,9)
-----
-1
-
-onlyif sqlite # empty RHS
-query I nosort
-SELECT null IN ()
+SELECT 1 IN (2,3,4,5,6,7,8,9) FROM __dw__
 ----
 0
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT null NOT IN ()
+SELECT 1 NOT IN () FROM __dw__
+----
+1
+
+query I nosort
+SELECT 1 NOT IN (2) FROM __dw__
+----
+1
+
+query I nosort
+SELECT 1 NOT IN (2,3,4,5,6,7,8,9) FROM __dw__
+----
+1
+
+onlyif sqlite # empty RHS
+query I nosort
+SELECT null IN () FROM __dw__
+----
+0
+
+onlyif sqlite # empty RHS
+query I nosort
+SELECT null NOT IN () FROM __dw__
 ----
 1
 
@@ -78,7 +78,7 @@ CREATE TABLE t1(x INTEGER)
 
 onlyif sqlite
 query I nosort label-1
-SELECT 1 IN t1
+SELECT 1 IN t1 FROM __dw__
 ----
 0
 
@@ -89,7 +89,7 @@ SELECT 1 IN (SELECT * FROM t1)
 
 onlyif sqlite
 query I nosort label-2
-SELECT 1 NOT IN t1
+SELECT 1 NOT IN t1 FROM __dw__
 ----
 1
 
@@ -100,7 +100,7 @@ SELECT 1 NOT IN (SELECT * FROM t1)
 
 onlyif sqlite
 query I nosort label-3
-SELECT null IN t1
+SELECT null IN t1 FROM __dw__
 ----
 0
 
@@ -111,7 +111,7 @@ SELECT null IN (SELECT * FROM t1)
 
 onlyif sqlite
 query I nosort label-4
-SELECT null NOT IN t1
+SELECT null NOT IN t1 FROM __dw__
 ----
 1
 
@@ -125,7 +125,7 @@ CREATE TABLE t2(y INTEGER PRIMARY KEY)
 
 onlyif sqlite
 query I nosort label-5
-SELECT 1 IN t2
+SELECT 1 IN t2 FROM __dw__
 ----
 0
 
@@ -136,7 +136,7 @@ SELECT 1 IN (SELECT * FROM t2)
 
 onlyif sqlite
 query I nosort label-6
-SELECT 1 NOT IN t2
+SELECT 1 NOT IN t2 FROM __dw__
 ----
 1
 
@@ -147,7 +147,7 @@ SELECT 1 NOT IN (SELECT * FROM t2)
 
 onlyif sqlite
 query I nosort label-7
-SELECT null IN t2
+SELECT null IN t2 FROM __dw__
 ----
 0
 
@@ -158,7 +158,7 @@ SELECT null IN (SELECT * FROM t2)
 
 onlyif sqlite
 query I nosort label-8
-SELECT null NOT IN t2
+SELECT null NOT IN t2 FROM __dw__
 ----
 1
 
@@ -172,7 +172,7 @@ CREATE TABLE t3(z INTEGER UNIQUE)
 
 onlyif sqlite
 query I nosort label-9
-SELECT 1 IN t3
+SELECT 1 IN t3 FROM __dw__
 ----
 0
 
@@ -183,7 +183,7 @@ SELECT 1 IN (SELECT * FROM t3)
 
 onlyif sqlite
 query I nosort label-10
-SELECT 1 NOT IN t3
+SELECT 1 NOT IN t3 FROM __dw__
 ----
 1
 
@@ -194,7 +194,7 @@ SELECT 1 NOT IN (SELECT * FROM t3)
 
 onlyif sqlite
 query I nosort label-11
-SELECT null IN t3
+SELECT null IN t3 FROM __dw__
 ----
 0
 
@@ -205,7 +205,7 @@ SELECT null IN (SELECT * FROM t3)
 
 onlyif sqlite
 query I nosort label-12
-SELECT null NOT IN t3
+SELECT null NOT IN t3 FROM __dw__
 ----
 1
 
@@ -236,19 +236,19 @@ SELECT null NOT IN (SELECT x+y FROM t1,t2)
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT 1.23 IN ()
+SELECT 1.23 IN () FROM __dw__
 ----
 0
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT 1.23 NOT IN ()
+SELECT 1.23 NOT IN () FROM __dw__
 ----
 1
 
 onlyif sqlite
 query I nosort label-13
-SELECT 1.23 IN t1
+SELECT 1.23 IN t1 FROM __dw__
 ----
 0
 
@@ -259,7 +259,7 @@ SELECT 1.23 IN (SELECT * FROM t1)
 
 onlyif sqlite
 query I nosort label-14
-SELECT 1.23 NOT IN t1
+SELECT 1.23 NOT IN t1 FROM __dw__
 ----
 1
 
@@ -270,19 +270,19 @@ SELECT 1.23 NOT IN (SELECT * FROM t1)
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT 'hello' IN ()
+SELECT 'hello' IN () FROM __dw__
 ----
 0
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT 'hello' NOT IN ()
+SELECT 'hello' NOT IN () FROM __dw__
 ----
 1
 
 onlyif sqlite
 query I nosort label-15
-SELECT 'hello' IN t1
+SELECT 'hello' IN t1 FROM __dw__
 ----
 0
 
@@ -293,7 +293,7 @@ SELECT 'hello' IN (SELECT * FROM t1)
 
 onlyif sqlite
 query I nosort label-16
-SELECT 'hello' NOT IN t1
+SELECT 'hello' NOT IN t1 FROM __dw__
 ----
 1
 
@@ -304,19 +304,19 @@ SELECT 'hello' NOT IN (SELECT * FROM t1)
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT x'303132' IN ()
+SELECT x'303132' IN () FROM __dw__
 ----
 0
 
 onlyif sqlite # empty RHS
 query I nosort
-SELECT x'303132' NOT IN ()
+SELECT x'303132' NOT IN () FROM __dw__
 ----
 1
 
 onlyif sqlite
 query I nosort label-17
-SELECT x'303132' IN t1
+SELECT x'303132' IN t1 FROM __dw__
 ----
 0
 
@@ -327,7 +327,7 @@ SELECT x'303132' IN (SELECT * FROM t1)
 
 onlyif sqlite
 query I nosort label-18
-SELECT x'303132' NOT IN t1
+SELECT x'303132' NOT IN t1 FROM __dw__
 ----
 1
 
@@ -347,22 +347,22 @@ SELECT x'303132' NOT IN (SELECT * FROM t1)
 # Row 1:
 
 query I nosort
-SELECT 1 IN (2,3,4)
+SELECT 1 IN (2,3,4) FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 1 NOT IN (2,3,4)
+SELECT 1 NOT IN (2,3,4) FROM __dw__
 ----
 1
 
 query I nosort
-SELECT 'a' IN ('b','c','d')
+SELECT 'a' IN ('b','c','d') FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 'a' NOT IN ('b','c','d')
+SELECT 'a' NOT IN ('b','c','d') FROM __dw__
 ----
 1
 
@@ -450,7 +450,7 @@ INSERT INTO t8n SELECT * FROM t7n
 
 onlyif sqlite
 query I nosort label-19
-SELECT 1 IN t4
+SELECT 1 IN t4 FROM __dw__
 ----
 0
 
@@ -461,7 +461,7 @@ SELECT 1 IN (SELECT * FROM t4)
 
 onlyif sqlite
 query I nosort label-20
-SELECT 1 NOT IN t4
+SELECT 1 NOT IN t4 FROM __dw__
 ----
 1
 
@@ -472,7 +472,7 @@ SELECT 1 NOT IN (SELECT * FROM t4)
 
 onlyif sqlite
 query I nosort label-21
-SELECT 1 IN t5
+SELECT 1 IN t5 FROM __dw__
 ----
 0
 
@@ -483,7 +483,7 @@ SELECT 1 IN (SELECT * FROM t5)
 
 onlyif sqlite
 query I nosort label-22
-SELECT 1 NOT IN t5
+SELECT 1 NOT IN t5 FROM __dw__
 ----
 1
 
@@ -494,7 +494,7 @@ SELECT 1 NOT IN (SELECT * FROM t5)
 
 onlyif sqlite
 query I nosort label-23
-SELECT 1 IN t6
+SELECT 1 IN t6 FROM __dw__
 ----
 0
 
@@ -505,7 +505,7 @@ SELECT 1 IN (SELECT * FROM t6)
 
 onlyif sqlite
 query I nosort label-24
-SELECT 1 NOT IN t6
+SELECT 1 NOT IN t6 FROM __dw__
 ----
 1
 
@@ -516,7 +516,7 @@ SELECT 1 NOT IN (SELECT * FROM t6)
 
 onlyif sqlite
 query I nosort label-25
-SELECT 'a' IN t7
+SELECT 'a' IN t7 FROM __dw__
 ----
 0
 
@@ -527,7 +527,7 @@ SELECT 'a' IN (SELECT * FROM t7)
 
 onlyif sqlite
 query I nosort label-26
-SELECT 'a' NOT IN t7
+SELECT 'a' NOT IN t7 FROM __dw__
 ----
 1
 
@@ -538,7 +538,7 @@ SELECT 'a' NOT IN (SELECT * FROM t7)
 
 onlyif sqlite
 query I nosort label-27
-SELECT 'a' IN t8
+SELECT 'a' IN t8 FROM __dw__
 ----
 0
 
@@ -549,7 +549,7 @@ SELECT 'a' IN (SELECT * FROM t8)
 
 onlyif sqlite
 query I nosort label-28
-SELECT 'a' NOT IN t8
+SELECT 'a' NOT IN t8 FROM __dw__
 ----
 1
 
@@ -563,48 +563,48 @@ SELECT 'a' NOT IN (SELECT * FROM t8)
 # Row 3:
 
 query I nosort
-SELECT 2 IN (2,3,4,null)
+SELECT 2 IN (2,3,4,null) FROM __dw__
 ----
 1
 
 query I nosort
-SELECT 3 NOT IN (2,3,4,null)
+SELECT 3 NOT IN (2,3,4,null) FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 4 IN (2,3,4)
+SELECT 4 IN (2,3,4) FROM __dw__
 ----
 1
 
 query I nosort
-SELECT 2 NOT IN (2,3,4)
+SELECT 2 NOT IN (2,3,4) FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 'b' IN ('b','c','d')
+SELECT 'b' IN ('b','c','d') FROM __dw__
 ----
 1
 
 query I nosort
-SELECT 'c' NOT IN ('b','c','d')
+SELECT 'c' NOT IN ('b','c','d') FROM __dw__
 ----
 0
 
 query I nosort
-SELECT 'd' IN ('b','c',null,'d')
+SELECT 'd' IN ('b','c',null,'d') FROM __dw__
 ----
 1
 
 query I nosort
-SELECT 'b' NOT IN (null,'b','c','d')
+SELECT 'b' NOT IN (null,'b','c','d') FROM __dw__
 ----
 0
 
 onlyif sqlite
 query I nosort label-29
-SELECT 2 IN t4
+SELECT 2 IN t4 FROM __dw__
 ----
 1
 
@@ -615,7 +615,7 @@ SELECT 2 IN (SELECT * FROM t4)
 
 onlyif sqlite
 query I nosort label-30
-SELECT 3 NOT IN t4
+SELECT 3 NOT IN t4 FROM __dw__
 ----
 0
 
@@ -626,7 +626,7 @@ SELECT 3 NOT IN (SELECT * FROM t4)
 
 onlyif sqlite
 query I nosort label-31
-SELECT 4 IN t4n
+SELECT 4 IN t4n FROM __dw__
 ----
 1
 
@@ -637,7 +637,7 @@ SELECT 4 IN (SELECT * FROM t4n)
 
 onlyif sqlite
 query I nosort label-32
-SELECT 2 NOT IN t4n
+SELECT 2 NOT IN t4n FROM __dw__
 ----
 0
 
@@ -648,7 +648,7 @@ SELECT 2 NOT IN (SELECT * FROM t4n)
 
 onlyif sqlite
 query I nosort label-33
-SELECT 2 IN t5
+SELECT 2 IN t5 FROM __dw__
 ----
 1
 
@@ -659,7 +659,7 @@ SELECT 2 IN (SELECT * FROM t5)
 
 onlyif sqlite
 query I nosort label-34
-SELECT 3 NOT IN t5
+SELECT 3 NOT IN t5 FROM __dw__
 ----
 0
 
@@ -670,7 +670,7 @@ SELECT 3 NOT IN (SELECT * FROM t5)
 
 onlyif sqlite
 query I nosort label-35
-SELECT 2 IN t6
+SELECT 2 IN t6 FROM __dw__
 ----
 1
 
@@ -681,7 +681,7 @@ SELECT 2 IN (SELECT * FROM t6)
 
 onlyif sqlite
 query I nosort label-36
-SELECT 3 NOT IN t6
+SELECT 3 NOT IN t6 FROM __dw__
 ----
 0
 
@@ -692,7 +692,7 @@ SELECT 3 NOT IN (SELECT * FROM t6)
 
 onlyif sqlite
 query I nosort label-37
-SELECT 4 IN t6n
+SELECT 4 IN t6n FROM __dw__
 ----
 1
 
@@ -703,7 +703,7 @@ SELECT 4 IN (SELECT * FROM t6n)
 
 onlyif sqlite
 query I nosort label-38
-SELECT 2 NOT IN t6n
+SELECT 2 NOT IN t6n FROM __dw__
 ----
 0
 
@@ -714,7 +714,7 @@ SELECT 2 NOT IN (SELECT * FROM t6n)
 
 onlyif sqlite
 query I nosort label-39
-SELECT 'b' IN t7
+SELECT 'b' IN t7 FROM __dw__
 ----
 1
 
@@ -725,7 +725,7 @@ SELECT 'b' IN (SELECT * FROM t7)
 
 onlyif sqlite
 query I nosort label-40
-SELECT 'c' NOT IN t7
+SELECT 'c' NOT IN t7 FROM __dw__
 ----
 0
 
@@ -736,7 +736,7 @@ SELECT 'c' NOT IN (SELECT * FROM t7)
 
 onlyif sqlite
 query I nosort label-41
-SELECT 'c' IN t7n
+SELECT 'c' IN t7n FROM __dw__
 ----
 1
 
@@ -747,7 +747,7 @@ SELECT 'c' IN (SELECT * FROM t7n)
 
 onlyif sqlite
 query I nosort label-42
-SELECT 'd' NOT IN t7n
+SELECT 'd' NOT IN t7n FROM __dw__
 ----
 0
 
@@ -758,7 +758,7 @@ SELECT 'd' NOT IN (SELECT * FROM t7n)
 
 onlyif sqlite
 query I nosort label-43
-SELECT 'b' IN t8
+SELECT 'b' IN t8 FROM __dw__
 ----
 1
 
@@ -769,7 +769,7 @@ SELECT 'b' IN (SELECT * FROM t8)
 
 onlyif sqlite
 query I nosort label-44
-SELECT 'c' NOT IN t8
+SELECT 'c' NOT IN t8 FROM __dw__
 ----
 0
 
@@ -780,7 +780,7 @@ SELECT 'c' NOT IN (SELECT * FROM t8)
 
 onlyif sqlite
 query I nosort label-45
-SELECT 'c' IN t8n
+SELECT 'c' IN t8n FROM __dw__
 ----
 1
 
@@ -791,7 +791,7 @@ SELECT 'c' IN (SELECT * FROM t8n)
 
 onlyif sqlite
 query I nosort label-46
-SELECT 'd' NOT IN t8n
+SELECT 'd' NOT IN t8n FROM __dw__
 ----
 0
 
@@ -803,28 +803,28 @@ SELECT 'd' NOT IN (SELECT * FROM t8n)
 #
 # Row 4:
 query I nosort
-SELECT 1 IN (2,3,4,null)
+SELECT 1 IN (2,3,4,null) FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT 1 NOT IN (2,3,4,null)
+SELECT 1 NOT IN (2,3,4,null) FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT 'a' IN ('b','c',null,'d')
+SELECT 'a' IN ('b','c',null,'d') FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT 'a' NOT IN (null,'b','c','d')
+SELECT 'a' NOT IN (null,'b','c','d') FROM __dw__
 ----
 NULL
 
 onlyif sqlite
 query I nosort label-47
-SELECT 1 IN t4n
+SELECT 1 IN t4n FROM __dw__
 ----
 NULL
 
@@ -835,7 +835,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-48
-SELECT 5 NOT IN t4n
+SELECT 5 NOT IN t4n FROM __dw__
 ----
 NULL
 
@@ -846,7 +846,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-49
-SELECT 6 IN t6n
+SELECT 6 IN t6n FROM __dw__
 ----
 NULL
 
@@ -857,7 +857,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-50
-SELECT 7 NOT IN t6n
+SELECT 7 NOT IN t6n FROM __dw__
 ----
 NULL
 
@@ -868,7 +868,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-51
-SELECT 'a' IN t7n
+SELECT 'a' IN t7n FROM __dw__
 ----
 NULL
 
@@ -879,7 +879,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-52
-SELECT 'e' NOT IN t7n
+SELECT 'e' NOT IN t7n FROM __dw__
 ----
 NULL
 
@@ -890,7 +890,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-53
-SELECT 'f' IN t8n
+SELECT 'f' IN t8n FROM __dw__
 ----
 NULL
 
@@ -901,7 +901,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-54
-SELECT 'g' NOT IN t8n
+SELECT 'g' NOT IN t8n FROM __dw__
 ----
 NULL
 
@@ -913,48 +913,48 @@ NULL
 #
 # Row 5:
 query I nosort
-SELECT null IN (2,3,4,null)
+SELECT null IN (2,3,4,null) FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null NOT IN (2,3,4,null)
+SELECT null NOT IN (2,3,4,null) FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null IN (2,3,4)
+SELECT null IN (2,3,4) FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null NOT IN (2,3,4)
+SELECT null NOT IN (2,3,4) FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null IN ('b','c','d')
+SELECT null IN ('b','c','d') FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null NOT IN ('b','c','d')
+SELECT null NOT IN ('b','c','d') FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null IN ('b','c',null,'d')
+SELECT null IN ('b','c',null,'d') FROM __dw__
 ----
 NULL
 
 query I nosort
-SELECT null NOT IN (null,'b','c','d')
+SELECT null NOT IN (null,'b','c','d') FROM __dw__
 ----
 NULL
 
 onlyif sqlite
 query I nosort label-55
-SELECT null IN t4
+SELECT null IN t4 FROM __dw__
 ----
 NULL
 
@@ -967,13 +967,13 @@ NULL
 
 # t4 should be 2,3,4... so this should be same
 query I nosort label-55
-SELECT null IN (2,3,4)
+SELECT null IN (2,3,4) FROM __dw__
 ----
 NULL
 
 onlyif sqlite
 query I nosort label-56
-SELECT null NOT IN t4
+SELECT null NOT IN t4 FROM __dw__
 ----
 NULL
 
@@ -986,7 +986,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-57
-SELECT null IN t4n
+SELECT null IN t4n FROM __dw__
 ----
 NULL
 
@@ -997,7 +997,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-58
-SELECT null NOT IN t4n
+SELECT null NOT IN t4n FROM __dw__
 ----
 NULL
 
@@ -1008,7 +1008,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-59
-SELECT null IN t5
+SELECT null IN t5 FROM __dw__
 ----
 NULL
 
@@ -1021,7 +1021,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-60
-SELECT null NOT IN t5
+SELECT null NOT IN t5 FROM __dw__
 ----
 NULL
 
@@ -1034,7 +1034,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-61
-SELECT null IN t6
+SELECT null IN t6 FROM __dw__
 ----
 NULL
 
@@ -1045,7 +1045,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-62
-SELECT null NOT IN t6
+SELECT null NOT IN t6 FROM __dw__
 ----
 NULL
 
@@ -1056,7 +1056,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-63
-SELECT null IN t6n
+SELECT null IN t6n FROM __dw__
 ----
 NULL
 
@@ -1067,7 +1067,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-64
-SELECT null NOT IN t6n
+SELECT null NOT IN t6n FROM __dw__
 ----
 NULL
 
@@ -1078,7 +1078,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-65
-SELECT null IN t7
+SELECT null IN t7 FROM __dw__
 ----
 NULL
 
@@ -1089,7 +1089,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-66
-SELECT null NOT IN t7
+SELECT null NOT IN t7 FROM __dw__
 ----
 NULL
 
@@ -1100,7 +1100,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-67
-SELECT null IN t7n
+SELECT null IN t7n FROM __dw__
 ----
 NULL
 
@@ -1111,7 +1111,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-68
-SELECT null NOT IN t7n
+SELECT null NOT IN t7n FROM __dw__
 ----
 NULL
 
@@ -1122,7 +1122,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-69
-SELECT null IN t8
+SELECT null IN t8 FROM __dw__
 ----
 NULL
 
@@ -1133,7 +1133,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-70
-SELECT null NOT IN t8
+SELECT null NOT IN t8 FROM __dw__
 ----
 NULL
 
@@ -1144,7 +1144,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-71
-SELECT null IN t8n
+SELECT null IN t8n FROM __dw__
 ----
 NULL
 
@@ -1155,7 +1155,7 @@ NULL
 
 onlyif sqlite
 query I nosort label-72
-SELECT null NOT IN t8n
+SELECT null NOT IN t8n FROM __dw__
 ----
 NULL
 

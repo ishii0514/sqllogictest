@@ -1,22 +1,23 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=t1
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:30: statement error
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:30: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:33: statement error
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:33: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:42: statement error
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:42: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:45: statement error
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:45: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:57: statement error
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:57: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:60: statement error
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:60: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\between\1\slt_good_0.test:63: statement error
-7 errors out of 10022 tests in C:\sqllogictest\test2\index\between\1\slt_good_0.test - 0 skipped.
+D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test:63: statement error
+7 errors out of 10022 tests in D:\sqllogictest\test_ea2\index\between\1\slt_good_0.test - 0 skipped.

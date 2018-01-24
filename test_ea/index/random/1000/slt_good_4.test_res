@@ -1,37 +1,42 @@
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab0
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab1
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab2
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab3
+res.azValue[i+3]=[TABLE],es.azValue[i+2]=tab4
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3030: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3030: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3033: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3033: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3042: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3042: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3045: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3045: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3057: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3057: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3060: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3060: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3063: statement error
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3063: statement error
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3095: query failed
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3095: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3105: query failed
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3105: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3115: query failed
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3115: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3125: query failed
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3125: query failed
 SQLExecDirect:HY000:1:-2130692347:SQL文解析エラー
 SQLExecDirect: unknown ODBC/SQL error
-C:\sqllogictest\test2\index\random\1000\slt_good_4.test:3135: query failed
-12 errors out of 1032 tests in C:\sqllogictest\test2\index\random\1000\slt_good_4.test - 5 skipped.
+D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test:3135: query failed
+12 errors out of 1032 tests in D:\sqllogictest\test_ea2\index\random\1000\slt_good_4.test - 5 skipped.

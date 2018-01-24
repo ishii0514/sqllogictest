@@ -1,18 +1,17 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__author__ = 'ishii.y'
-
 import os
 import sys
 import fnmatch
 import csv
 import datetime
 
+__author__ = 'ishii.y'
+
 
 def main():
-    target_dir = r'C:\sqllogictest\test2'
-    #target_dir = r'C:\sqllogictest\test2\index\random\10\slt_good_11.test'
-    #target_dir = r'C:\sqllogictest\test\select2.test'
+    target_dir = r'D:\sqllogictest\test_ea'
+    # target_dir = r'D:\sqllogictest\test_ea\index\random\10\slt_good_11.test'
     if len(sys.argv) > 1:
         target_dir = sys.argv[1]
     target_db = 'drsum'
@@ -22,23 +21,26 @@ def main():
     if len(sys.argv) > 3:
         output_dir = sys.argv[3]
 
-    get_file_info(target_dir, target_db, output_dir)
+    convert_result_to_csv(target_dir, target_db, output_dir)
 
 
-def get_file_info(target_dir, target_db, output_dir):
+def convert_result_to_csv(target_dir, target_db, output_dir):
     """
     対象ファイル群のステートメント情報を取得する
     :param target_dir:
+    :param target_db:
+    :param output_dir
     :return:
     """
     total = 0
     count = 0
     res = []
     for file_name in get_file_list(target_dir, '*.test'):
-        test = TestFile(file_name)
+        root_dir, rel_path = split_root_path(file_name, target_dir)
+        test = TestFile(root_dir, rel_path)
         test.write_csv(target_db, make_output_file_name(target_dir, file_name, output_dir))
         case_sum = test.case_summary(target_db)
-        res.append((file_name, case_sum))
+        res.append((rel_path, case_sum))
         count += 1
         total += case_sum['valid_case']
         print count, file_name, case_sum
@@ -47,9 +49,22 @@ def get_file_info(target_dir, target_db, output_dir):
     print count, total
 
 
+def split_root_path(file_name, root_dir):
+    """
+    file_nameをrootディレクトリと相対パス名に分割する
+    :param file_name:
+    :param root_dir:
+    :return:
+    """
+    if os.path.isfile(root_dir):
+        # ファイルの場合、ファイル名で分割
+        return os.path.dirname(root_dir), os.path.basename(root_dir)
+    return root_dir, os.path.relpath(file_name, root_dir)
+
+
 def make_output_file_name(target_dir, file_name, output_dir):
-    #出力するCSV名の生成
-    #target_dirをルートとするパスを'_'でつなぐ
+    # 出力するCSV名の生成
+    # target_dirをルートとするパスを'_'でつなぐ
     root_dir = target_dir
     if os.path.isfile(target_dir):
         root_dir = os.path.dirname(target_dir)
@@ -93,11 +108,11 @@ def get_file_list(target_dir, pattern):
     :param pattern:ファイルパターン
     :return:
     """
-    #ファイル名の場合は、そのまま返す
+    # ファイル名の場合は、そのまま返す
     if os.path.isfile(target_dir):
         yield target_dir
 
-    #ディレクトリ内を再帰的に探索
+    # ディレクトリ内を再帰的に探索
     for root, dirs, files in os.walk(target_dir):
         for file_name in files:
             if fnmatch.fnmatch(file_name, pattern):
@@ -105,36 +120,35 @@ def get_file_list(target_dir, pattern):
 
 
 class TestFile:
-    def __init__(self, file_name):
-        self.file_name = file_name
+    def __init__(self, root_dir, rel_path):
+        abs_path = os.path.join(root_dir, rel_path)
 
-        #テスト実行結果ファイルの有無
-        result_file_name = file_name + '_res'
+        result_file_name = abs_path + '_res'
         tested = os.path.exists(result_file_name)
         test_results = self.get_test_result(result_file_name)
 
-        self.statements = self.get_statements(file_name, tested, test_results)
+        self.statements = self.get_statements(abs_path, rel_path, tested, test_results)
 
     @classmethod
-    def get_statements(cls, file_name, tested, test_results):
+    def get_statements(cls, abs_path, rel_path, tested, test_results):
         """
         ファイルを読み込んでステートメント毎に分割して取得する。
         """
         statements = []
         halt = []
-        with open(file_name, 'r') as f:
+        with open(abs_path, 'r') as f:
             started = False
             block = []
             for i, line in enumerate(f, 1):
                 if cls.is_comment(line):
-                    #コメント行は無条件でスキップ
+                    # コメント行は無条件でスキップ
                     continue
                 if started is False and cls.is_blank(line):
-                    #未スタートで、空行の場合はスキップ
+                    # 未スタートで、空行の場合はスキップ
                     continue
                 if started and cls.is_blank(line):
-                    #1ブロック終了
-                    s = Statement(file_name, block, tested, test_results, halt)
+                    # 1ブロック終了
+                    s = Statement(rel_path, block, tested, test_results, halt)
                     statements.append(s)
                     if s.type == 'halt':
                         if len(s.skipif) > 0:
@@ -148,7 +162,7 @@ class TestFile:
                 block.append((i, line))
 
             if len(block) > 0:
-                statements.append(Statement(file_name, block, tested, test_results, halt))
+                statements.append(Statement(rel_path, block, tested, test_results, halt))
         return statements
 
     @classmethod
@@ -180,17 +194,17 @@ class TestFile:
         """
         トークンからエラー情報を返す。
         エラー情報じゃない場合は行数に-1を入れる。
-        :param tokens:
+        :param line:
         :return:(行数, 内容)
         """
 
-        #':'で分割して3つに分かれていて、かつ2番目が数値ならエラー情報とみなす。
+        # ':'で分割して3つに分かれていて、かつ2番目が数値ならエラー情報とみなす。
         tokens = [x.strip() for x in line.strip().split(':')]
         if len(tokens) == 3 and tokens[1].isdigit():
             return int(tokens[1]), tokens[2]
 
         if len(tokens) == 4:
-            #絶対パスの場合、（:)がずれる可能性あり。
+            # 絶対パスの場合、（:)がずれる可能性あり。
             if len(tokens[0]) == 1 and tokens[1].find('\\') == 0:
                 if tokens[2].isdigit():
                     return int(tokens[2]), tokens[3]
@@ -252,10 +266,10 @@ class Statement:
         self.test_result = '-'
         self.test_msg = ''
 
-        #ステートメント情報を取得
+        # ステートメント情報を取得
         self.set_param(block)
 
-        #テスト結果がある場合は結果を取得
+        # テスト結果がある場合は結果を取得
         if tested:
             self.set_test_result(test_results)
 
@@ -263,13 +277,12 @@ class Statement:
         """
         blockから、テスト情報を各メンバーにセットする。
         :param block:ステートメントの1ブロック
-        :param test_results:対象ファイルのテスト結果の一覧
         :return:
         """
         self.row_num = block[0][0]
         self.end_row_num = block[len(block)-1][0]
 
-        #スキップ情報を取得
+        # スキップ情報を取得
         cur = 0
         s = block[cur][1].strip()
         while s.find('onlyif') == 0 or s.find('skipif') == 0:
@@ -280,7 +293,7 @@ class Statement:
             cur += 1
             s = block[cur][1].strip()
 
-        #ステートメントのタイプを取得
+        # ステートメントのタイプを取得
         if s.find('statement') == 0:
             self.type = 'statement'
         elif s.find('query') == 0:
@@ -292,23 +305,23 @@ class Statement:
         else:
             self.type = 'unknown'
 
-        #ステートメントを格納
+        # ステートメントを格納
         cur += 1
         for x in block[cur:]:
             self.statement += x[1]
 
     def set_test_result(self, test_results):
-        #テスト実施結果
+        # テスト実施結果
         self.test_result = 'o'  # とりあえず全ケースOKとする。
-        #エラー情報取得
+        # エラー情報取得
         err_msgs = []
         for i in range(self.row_num, self.end_row_num+1):
             if i not in test_results:
                 continue
             self.test_result = 'x'
-            #複数出現する可能性がある
-            #self.test_msg = test_results[i]
-            #break
+            # 複数出現する可能性がある
+            # self.test_msg = test_results[i]
+            # break
             err_msgs.append(test_results[i])
         self.test_msg = ','.join(err_msgs)
 
@@ -329,25 +342,25 @@ class Statement:
         :return:
         """
         if self.type != 'query' and self.type != 'statement':
-            #query, statement以外はFalse
+            # query, statement以外はFalse
             return False
 
         if db_name == '':
-            #db_nameが空なら全てのケースをvalidとする。
+            # db_nameが空なら全てのケースをvalidとする。
             return True
 
-        #haltの判定
+        # haltの判定
         if self.is_halt(db_name):
             return False
 
         if len(self.skipif) == 0 and len(self.onlyif) == 0:
-            #skip/onlyifが両方なければ有効
+            # skip/onlyifが両方なければ有効
             return True
         if len(self.onlyif) > 0 and db_name in self.onlyif:
-            #onlyifが対象DB名なら有効
+            # onlyifが対象DB名なら有効
             return True
         if len(self.skipif) > 0 and db_name not in self.skipif:
-            #skipifが対象DBじゃなければ有効
+            # skipifが対象DBじゃなければ有効
             return True
 
         return False
@@ -361,7 +374,7 @@ class Statement:
         return False
 
     def statement_one_line(self):
-        #ステートメントの改行を半角スペースに置き換えて1行にする。
+        # ステートメントの改行を半角スペースに置き換えて1行にする。
         return self.statement.replace('\n', ' ')
 
     @classmethod
@@ -385,6 +398,7 @@ class Statement:
     def get_result_as_list(self, db_name, encode):
         """
         メンバー情報をリストで返す。CSV出力用。
+        :param db_name:
         :param encode:
         :return:
         """
